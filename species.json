@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "s1",
+    "name": "Human",
+    "description": "Raça/espécie: Human"
+  },
+  {
+    "_id": "s2",
+    "name": "Human (cyborg)",
+    "description": "Raça/espécie: Human (cyborg)"
+  },
+  {
+    "_id": "s3",
+    "name": "Maia (spirit)",
+    "description": "Raça/espécie: Maia (spirit)"
+  },
+  {
+    "_id": "s4",
+    "name": "Mutant (human)",
+    "description": "Raça/espécie: Mutant (human)"
+  },
+  {
+    "_id": "s5",
+    "name": "Saiyan",
+    "description": "Raça/espécie: Saiyan"
+  },
+  {
+    "_id": "s6",
+    "name": "Hylian",
+    "description": "Raça/espécie: Hylian"
+  },
+  {
+    "_id": "s7",
+    "name": "Demigod",
+    "description": "Raça/espécie: Demigod"
+  },
+  {
+    "_id": "s8",
+    "name": "Human (italian Plumber)",
+    "description": "Raça/espécie: Human (italian Plumber)"
+  },
+  {
+    "_id": "s9",
+    "name": "Hedgehog",
+    "description": "Raça/espécie: Hedgehog"
+  },
+  {
+    "_id": "s10",
+    "name": "Titan (eternal)",
+    "description": "Raça/espécie: Titan (eternal)"
+  },
+  {
+    "_id": "s11",
+    "name": "Unknown (yoda Species)",
+    "description": "Raça/espécie: Unknown (yoda Species)"
+  },
+  {
+    "_id": "s12",
+    "name": "Autobot",
+    "description": "Raça/espécie: Autobot"
+  },
+  {
+    "_id": "s13",
+    "name": "Decepticon",
+    "description": "Raça/espécie: Decepticon"
+  },
+  {
+    "_id": "s14",
+    "name": "Human(?)",
+    "description": "Raça/espécie: Human(?)"
+  },
+  {
+    "_id": "s15",
+    "name": "Human (cartoon)",
+    "description": "Raça/espécie: Human (cartoon)"
+  },
+  {
+    "_id": "s16",
+    "name": "Electric Mouse",
+    "description": "Raça/espécie: Electric Mouse"
+  },
+  {
+    "_id": "s17",
+    "name": "Human (air Nomad)",
+    "description": "Raça/espécie: Human (air Nomad)"
+  },
+  {
+    "_id": "s18",
+    "name": "Amazon Demigoddess",
+    "description": "Raça/espécie: Amazon Demigoddess"
+  },
+  {
+    "_id": "s19",
+    "name": "Ogre",
+    "description": "Raça/espécie: Ogre"
+  },
+  {
+    "_id": "s20",
+    "name": "Donkey",
+    "description": "Raça/espécie: Donkey"
+  },
+  {
+    "_id": "s21",
+    "name": "Human (the One)",
+    "description": "Raça/espécie: Human (the One)"
+  },
+  {
+    "_id": "s22",
+    "name": "Ai Program",
+    "description": "Raça/espécie: Ai Program"
+  }
+]

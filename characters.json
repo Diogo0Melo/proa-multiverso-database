@@ -1,0 +1,804 @@
+[
+  {
+    "name": "Tony Stark",
+    "alias": [
+      "Ironman",
+      "Iron Man"
+    ],
+    "universe_id": "u1",
+    "species_id": "s1",
+    "first_appearance": "1963 (tales Of Suspense #39)",
+    "power_level": 95,
+    "equipment_ids": [
+      "e1",
+      "e2",
+      "e3"
+    ],
+    "movie_ids": [
+      "m1",
+      "m2",
+      "m3",
+      "m4"
+    ],
+    "debut_year": 1963
+  },
+  {
+    "name": "Darth Vader",
+    "alias": [],
+    "universe_id": "u2",
+    "species_id": "s2",
+    "first_appearance": "Star Wars Episode Iv",
+    "power_level": 88,
+    "equipment_ids": [
+      "e4",
+      "e1",
+      "e5"
+    ],
+    "movie_ids": [
+      "m5",
+      "m6",
+      "m7"
+    ],
+    "debut_year": 1977
+  },
+  {
+    "name": "Harry Potter",
+    "alias": [
+      "The Boy Who Lived"
+    ],
+    "universe_id": "u3",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": null,
+    "equipment_ids": [
+      "e6",
+      "e7",
+      "e8"
+    ],
+    "movie_ids": [
+      "m8",
+      "m9",
+      "m10"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "name": "Peter Parker",
+    "alias": [
+      "Spider-man",
+      "Spiderman"
+    ],
+    "universe_id": "u1",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 89,
+    "equipment_ids": [
+      "e9",
+      "e10"
+    ],
+    "movie_ids": [],
+    "debut_year": 1962
+  },
+  {
+    "name": "Master Chief",
+    "alias": [
+      "John-117"
+    ],
+    "universe_id": "u4",
+    "species_id": "s1",
+    "first_appearance": "Halo Combat Evolved",
+    "power_level": 100,
+    "equipment_ids": [
+      "e11",
+      "e12"
+    ],
+    "movie_ids": [
+      "m11"
+    ],
+    "debut_year": 2001
+  },
+  {
+    "name": "Gandalf The Grey",
+    "alias": [],
+    "universe_id": "u5",
+    "species_id": "s3",
+    "first_appearance": null,
+    "power_level": 93,
+    "equipment_ids": [
+      "e13",
+      "e14",
+      "e15"
+    ],
+    "movie_ids": [
+      "m12",
+      "m13",
+      "m14"
+    ],
+    "debut_year": 1954
+  },
+  {
+    "name": "Batman",
+    "alias": [],
+    "universe_id": "u6",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 85,
+    "equipment_ids": [
+      "e16",
+      "e17",
+      "e3"
+    ],
+    "movie_ids": [
+      "m15",
+      "m16",
+      "m17"
+    ],
+    "debut_year": 1939
+  },
+  {
+    "name": "Lara Croft",
+    "alias": [],
+    "universe_id": "u7",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 76,
+    "equipment_ids": [
+      "e18",
+      "e19",
+      "e20"
+    ],
+    "movie_ids": [
+      "m18",
+      "m19"
+    ],
+    "debut_year": 1996
+  },
+  {
+    "name": "Geralt Of Rivia",
+    "alias": [],
+    "universe_id": "u8",
+    "species_id": "s4",
+    "first_appearance": null,
+    "power_level": 90,
+    "equipment_ids": [
+      "e21",
+      "e22",
+      "e23",
+      "e24"
+    ],
+    "movie_ids": [],
+    "debut_year": 2007
+  },
+  {
+    "name": "Son Goku",
+    "alias": [],
+    "universe_id": "u9",
+    "species_id": "s5",
+    "first_appearance": "Dragon Ball (manga) 1984",
+    "power_level": 9000,
+    "equipment_ids": [
+      "e25",
+      "e26"
+    ],
+    "movie_ids": [
+      "m20"
+    ],
+    "debut_year": 1984
+  },
+  {
+    "name": "Vegeta",
+    "alias": [],
+    "universe_id": "u9",
+    "species_id": "s5",
+    "first_appearance": null,
+    "power_level": null,
+    "equipment_ids": [
+      "e1",
+      "e27"
+    ],
+    "movie_ids": [
+      "m21",
+      "m22"
+    ],
+    "debut_year": 1984
+  },
+  {
+    "name": "Link",
+    "alias": [],
+    "universe_id": "u10",
+    "species_id": "s6",
+    "first_appearance": null,
+    "power_level": 88,
+    "equipment_ids": [
+      "e28",
+      "e29",
+      "e30"
+    ],
+    "movie_ids": [],
+    "debut_year": 1986
+  },
+  {
+    "name": "Princess Zelda",
+    "alias": [],
+    "universe_id": "u10",
+    "species_id": "s6",
+    "first_appearance": null,
+    "power_level": 72,
+    "equipment_ids": [
+      "e31",
+      "e32",
+      "e33"
+    ],
+    "movie_ids": [],
+    "debut_year": 1986
+  },
+  {
+    "name": "Kratos",
+    "alias": [],
+    "universe_id": "u11",
+    "species_id": "s7",
+    "first_appearance": null,
+    "power_level": 98,
+    "equipment_ids": [
+      "e34",
+      "e35",
+      "e36"
+    ],
+    "movie_ids": [],
+    "debut_year": 2005
+  },
+  {
+    "name": "Mario",
+    "alias": [],
+    "universe_id": "u12",
+    "species_id": "s8",
+    "first_appearance": null,
+    "power_level": 70,
+    "equipment_ids": [
+      "e37",
+      "e38",
+      "e39"
+    ],
+    "movie_ids": [
+      "m23",
+      "m24"
+    ],
+    "debut_year": 1985
+  },
+  {
+    "name": "Luigi",
+    "alias": [],
+    "universe_id": "u12",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 68,
+    "equipment_ids": [
+      "e40",
+      "e41"
+    ],
+    "movie_ids": [
+      "m24"
+    ],
+    "debut_year": 1985
+  },
+  {
+    "name": "Sonic The Hedgehog",
+    "alias": [],
+    "universe_id": "u13",
+    "species_id": "s9",
+    "first_appearance": null,
+    "power_level": "fast",
+    "equipment_ids": [
+      "e42",
+      "e43"
+    ],
+    "movie_ids": [
+      "m25",
+      "m26"
+    ],
+    "debut_year": 1991
+  },
+  {
+    "name": "Thanos",
+    "alias": [],
+    "universe_id": "u1",
+    "species_id": "s10",
+    "first_appearance": null,
+    "power_level": 99,
+    "equipment_ids": [
+      "e44",
+      "e1"
+    ],
+    "movie_ids": [
+      "m27",
+      "m28"
+    ],
+    "debut_year": 1973
+  },
+  {
+    "name": "Grogu",
+    "alias": [],
+    "universe_id": "u2",
+    "species_id": "s11",
+    "first_appearance": null,
+    "power_level": 50,
+    "equipment_ids": [
+      "e5",
+      "e45"
+    ],
+    "movie_ids": [
+      "m29"
+    ],
+    "debut_year": 2019
+  },
+  {
+    "name": "Leia Organa",
+    "alias": [],
+    "universe_id": "u2",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 67,
+    "equipment_ids": [
+      "e46",
+      "e47"
+    ],
+    "movie_ids": [
+      "m5",
+      "m7"
+    ],
+    "debut_year": 1977
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "alias": [],
+    "universe_id": "u14",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 92,
+    "equipment_ids": [
+      "e48",
+      "e49",
+      "e50"
+    ],
+    "movie_ids": [
+      "m30"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "alias": [],
+    "universe_id": "u14",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": null,
+    "equipment_ids": [
+      "e51",
+      "e14"
+    ],
+    "movie_ids": [
+      "m31"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "name": "Luffy",
+    "alias": [],
+    "universe_id": "u15",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": "rubber",
+    "equipment_ids": [
+      "e52",
+      "e53"
+    ],
+    "movie_ids": [
+      "m32"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "name": "Optimus Prime",
+    "alias": [],
+    "universe_id": "u16",
+    "species_id": "s12",
+    "first_appearance": null,
+    "power_level": 95,
+    "equipment_ids": [
+      "e54",
+      "e46"
+    ],
+    "movie_ids": [
+      "m33",
+      "m34"
+    ],
+    "debut_year": 1984
+  },
+  {
+    "name": "Megatron",
+    "alias": [],
+    "universe_id": "u16",
+    "species_id": "s13",
+    "first_appearance": null,
+    "power_level": 96,
+    "equipment_ids": [
+      "e55",
+      "e56"
+    ],
+    "movie_ids": [
+      "m33",
+      "m35"
+    ],
+    "debut_year": 1984
+  },
+  {
+    "name": "Rick Sanchez",
+    "alias": [],
+    "universe_id": "u17",
+    "species_id": "s14",
+    "first_appearance": null,
+    "power_level": "genius",
+    "equipment_ids": [
+      "e57",
+      "e58"
+    ],
+    "movie_ids": [],
+    "debut_year": 2013
+  },
+  {
+    "name": "Morty Smith",
+    "alias": [],
+    "universe_id": "u17",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": "low",
+    "equipment_ids": [
+      "e59",
+      "e60"
+    ],
+    "movie_ids": [
+      "m36"
+    ],
+    "debut_year": 2013
+  },
+  {
+    "name": "Eleven",
+    "alias": [],
+    "universe_id": "u18",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": "psychic",
+    "equipment_ids": [
+      "e61",
+      "e62"
+    ],
+    "movie_ids": [
+      "m37"
+    ],
+    "debut_year": 2016
+  },
+  {
+    "name": "Homer Simpson",
+    "alias": [],
+    "universe_id": "u19",
+    "species_id": "s15",
+    "first_appearance": null,
+    "power_level": 42,
+    "equipment_ids": [
+      "e63",
+      "e64"
+    ],
+    "movie_ids": [
+      "m38"
+    ],
+    "debut_year": 1989
+  },
+  {
+    "name": "Spider-gwen",
+    "alias": [],
+    "universe_id": "u1",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": null,
+    "equipment_ids": [
+      "e65",
+      "e66"
+    ],
+    "movie_ids": [
+      "m39"
+    ],
+    "debut_year": 2014
+  },
+  {
+    "name": "Ash Ketchum",
+    "alias": [],
+    "universe_id": "u20",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": "determination",
+    "equipment_ids": [
+      "e67",
+      "e68"
+    ],
+    "movie_ids": [
+      "m40"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "name": "Pikachu",
+    "alias": [],
+    "universe_id": "u20",
+    "species_id": "s16",
+    "first_appearance": null,
+    "power_level": "electric",
+    "equipment_ids": [
+      "e69",
+      "e45"
+    ],
+    "movie_ids": [
+      "m41"
+    ],
+    "debut_year": 1996
+  },
+  {
+    "name": "Cloud Strife",
+    "alias": [],
+    "universe_id": "u21",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 87,
+    "equipment_ids": [
+      "e70"
+    ],
+    "movie_ids": [
+      "m42"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "name": "Sephiroth",
+    "alias": [],
+    "universe_id": "u21",
+    "species_id": "s14",
+    "first_appearance": null,
+    "power_level": null,
+    "equipment_ids": [
+      "e71",
+      "e72"
+    ],
+    "movie_ids": [
+      "m42"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "name": "Aang",
+    "alias": [],
+    "universe_id": "u22",
+    "species_id": "s17",
+    "first_appearance": null,
+    "power_level": 90,
+    "equipment_ids": [
+      "e13",
+      "e73"
+    ],
+    "movie_ids": [
+      "m43"
+    ],
+    "debut_year": 2005
+  },
+  {
+    "name": "Katara",
+    "alias": [],
+    "universe_id": "u22",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 85,
+    "equipment_ids": [
+      "e74"
+    ],
+    "movie_ids": [
+      "m44"
+    ],
+    "debut_year": 2005
+  },
+  {
+    "name": "Sokka",
+    "alias": [],
+    "universe_id": "u22",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 70,
+    "equipment_ids": [
+      "e75",
+      "e58"
+    ],
+    "movie_ids": [],
+    "debut_year": 2005
+  },
+  {
+    "name": "Black Panther",
+    "alias": [],
+    "universe_id": "u1",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 88,
+    "equipment_ids": [
+      "e76",
+      "e77"
+    ],
+    "movie_ids": [
+      "m45",
+      "m27"
+    ],
+    "debut_year": 1966
+  },
+  {
+    "name": "Wonder Woman",
+    "alias": [],
+    "universe_id": "u6",
+    "species_id": "s18",
+    "first_appearance": null,
+    "power_level": 95,
+    "equipment_ids": [
+      "e78",
+      "e14",
+      "e29"
+    ],
+    "movie_ids": [
+      "m46",
+      "m47"
+    ],
+    "debut_year": 1941
+  },
+  {
+    "name": "The Flash",
+    "alias": [],
+    "universe_id": "u6",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": "fast",
+    "equipment_ids": [
+      "e79"
+    ],
+    "movie_ids": [
+      "m47",
+      "m48"
+    ],
+    "debut_year": 1940
+  },
+  {
+    "name": "Shrek",
+    "alias": [],
+    "universe_id": "u23",
+    "species_id": "s19",
+    "first_appearance": null,
+    "power_level": 78,
+    "equipment_ids": [
+      "e80",
+      "e81"
+    ],
+    "movie_ids": [
+      "m49",
+      "m50"
+    ],
+    "debut_year": 2001
+  },
+  {
+    "name": "Donkey",
+    "alias": [],
+    "universe_id": "u23",
+    "species_id": "s20",
+    "first_appearance": null,
+    "power_level": "friendship",
+    "equipment_ids": [
+      "e82"
+    ],
+    "movie_ids": [
+      "m49",
+      "m50"
+    ],
+    "debut_year": 2001
+  },
+  {
+    "name": "Neo",
+    "alias": [],
+    "universe_id": "u24",
+    "species_id": "s21",
+    "first_appearance": null,
+    "power_level": 100,
+    "equipment_ids": [
+      "e83",
+      "e84"
+    ],
+    "movie_ids": [
+      "m51",
+      "m52",
+      "m53"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "name": "Trinity",
+    "alias": [],
+    "universe_id": "u24",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 89,
+    "equipment_ids": [
+      "e85",
+      "e86"
+    ],
+    "movie_ids": [
+      "m51",
+      "m52"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "name": "Agent Smith",
+    "alias": [],
+    "universe_id": "u24",
+    "species_id": "s22",
+    "first_appearance": null,
+    "power_level": 97,
+    "equipment_ids": [
+      "e87"
+    ],
+    "movie_ids": [
+      "m51"
+    ],
+    "debut_year": 1999
+  },
+  {
+    "name": "Hermione Granger",
+    "alias": [],
+    "universe_id": "u3",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 90,
+    "equipment_ids": [
+      "e6",
+      "e88"
+    ],
+    "movie_ids": [
+      "m8",
+      "m54"
+    ],
+    "debut_year": 1997
+  },
+  {
+    "name": "Sauron",
+    "alias": [],
+    "universe_id": "u5",
+    "species_id": "s3",
+    "first_appearance": null,
+    "power_level": 99,
+    "equipment_ids": [
+      "e89",
+      "e90"
+    ],
+    "movie_ids": [
+      "m55"
+    ],
+    "debut_year": 1954
+  },
+  {
+    "name": "Riri Stark",
+    "alias": [],
+    "universe_id": "u1",
+    "species_id": "s1",
+    "first_appearance": null,
+    "power_level": 95,
+    "equipment_ids": [
+      "e1",
+      "e2",
+      "e3"
+    ],
+    "movie_ids": [
+      "m56"
+    ],
+    "debut_year": 2022
+  }
+]

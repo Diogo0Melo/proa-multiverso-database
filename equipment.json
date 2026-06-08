@@ -1,0 +1,452 @@
+[
+  {
+    "_id": "e1",
+    "name": "Armor",
+    "description": "Equipamento: Armor"
+  },
+  {
+    "_id": "e2",
+    "name": "Ai Assistant",
+    "description": "Equipamento: Ai Assistant"
+  },
+  {
+    "_id": "e3",
+    "name": "Money",
+    "description": "Equipamento: Money"
+  },
+  {
+    "_id": "e4",
+    "name": "Lightsaber",
+    "description": "Equipamento: Lightsaber"
+  },
+  {
+    "_id": "e5",
+    "name": "Force",
+    "description": "Equipamento: Force"
+  },
+  {
+    "_id": "e6",
+    "name": "Wand",
+    "description": "Equipamento: Wand"
+  },
+  {
+    "_id": "e7",
+    "name": "Cloak",
+    "description": "Equipamento: Cloak"
+  },
+  {
+    "_id": "e8",
+    "name": "Owl",
+    "description": "Equipamento: Owl"
+  },
+  {
+    "_id": "e9",
+    "name": "Web Shooters",
+    "description": "Equipamento: Web Shooters"
+  },
+  {
+    "_id": "e10",
+    "name": "Costume",
+    "description": "Equipamento: Costume"
+  },
+  {
+    "_id": "e11",
+    "name": "Mjolnir Armor",
+    "description": "Equipamento: Mjolnir Armor"
+  },
+  {
+    "_id": "e12",
+    "name": "Assault Rifle",
+    "description": "Equipamento: Assault Rifle"
+  },
+  {
+    "_id": "e13",
+    "name": "Staff",
+    "description": "Equipamento: Staff"
+  },
+  {
+    "_id": "e14",
+    "name": "Sword",
+    "description": "Equipamento: Sword"
+  },
+  {
+    "_id": "e15",
+    "name": "Horse",
+    "description": "Equipamento: Horse"
+  },
+  {
+    "_id": "e16",
+    "name": "Batsuit",
+    "description": "Equipamento: Batsuit"
+  },
+  {
+    "_id": "e17",
+    "name": "Batmobile",
+    "description": "Equipamento: Batmobile"
+  },
+  {
+    "_id": "e18",
+    "name": "Pistols",
+    "description": "Equipamento: Pistols"
+  },
+  {
+    "_id": "e19",
+    "name": "Grappling Hook",
+    "description": "Equipamento: Grappling Hook"
+  },
+  {
+    "_id": "e20",
+    "name": "Wit",
+    "description": "Equipamento: Wit"
+  },
+  {
+    "_id": "e21",
+    "name": "Silver Sword",
+    "description": "Equipamento: Silver Sword"
+  },
+  {
+    "_id": "e22",
+    "name": "Steel Sword",
+    "description": "Equipamento: Steel Sword"
+  },
+  {
+    "_id": "e23",
+    "name": "Potions",
+    "description": "Equipamento: Potions"
+  },
+  {
+    "_id": "e24",
+    "name": "Signs",
+    "description": "Equipamento: Signs"
+  },
+  {
+    "_id": "e25",
+    "name": "Power Pole",
+    "description": "Equipamento: Power Pole"
+  },
+  {
+    "_id": "e26",
+    "name": "Nimbus",
+    "description": "Equipamento: Nimbus"
+  },
+  {
+    "_id": "e27",
+    "name": "Scouter",
+    "description": "Equipamento: Scouter"
+  },
+  {
+    "_id": "e28",
+    "name": "Master Sword",
+    "description": "Equipamento: Master Sword"
+  },
+  {
+    "_id": "e29",
+    "name": "Shield",
+    "description": "Equipamento: Shield"
+  },
+  {
+    "_id": "e30",
+    "name": "Ocarina",
+    "description": "Equipamento: Ocarina"
+  },
+  {
+    "_id": "e31",
+    "name": "Wisdom",
+    "description": "Equipamento: Wisdom"
+  },
+  {
+    "_id": "e32",
+    "name": "Magic",
+    "description": "Equipamento: Magic"
+  },
+  {
+    "_id": "e33",
+    "name": "Bow",
+    "description": "Equipamento: Bow"
+  },
+  {
+    "_id": "e34",
+    "name": "Blades Of Chaos",
+    "description": "Equipamento: Blades Of Chaos"
+  },
+  {
+    "_id": "e35",
+    "name": "Leviathan Axe",
+    "description": "Equipamento: Leviathan Axe"
+  },
+  {
+    "_id": "e36",
+    "name": "Rage",
+    "description": "Equipamento: Rage"
+  },
+  {
+    "_id": "e37",
+    "name": "Hat",
+    "description": "Equipamento: Hat"
+  },
+  {
+    "_id": "e38",
+    "name": "Moustache",
+    "description": "Equipamento: Moustache"
+  },
+  {
+    "_id": "e39",
+    "name": "Jump",
+    "description": "Equipamento: Jump"
+  },
+  {
+    "_id": "e40",
+    "name": "Vacuum",
+    "description": "Equipamento: Vacuum"
+  },
+  {
+    "_id": "e41",
+    "name": "Courage",
+    "description": "Equipamento: Courage"
+  },
+  {
+    "_id": "e42",
+    "name": "Speed",
+    "description": "Equipamento: Speed"
+  },
+  {
+    "_id": "e43",
+    "name": "Rings",
+    "description": "Equipamento: Rings"
+  },
+  {
+    "_id": "e44",
+    "name": "Infinity Gauntlet",
+    "description": "Equipamento: Infinity Gauntlet"
+  },
+  {
+    "_id": "e45",
+    "name": "Cuteness",
+    "description": "Equipamento: Cuteness"
+  },
+  {
+    "_id": "e46",
+    "name": "Blaster",
+    "description": "Equipamento: Blaster"
+  },
+  {
+    "_id": "e47",
+    "name": "Leadership",
+    "description": "Equipamento: Leadership"
+  },
+  {
+    "_id": "e48",
+    "name": "Chakra",
+    "description": "Equipamento: Chakra"
+  },
+  {
+    "_id": "e49",
+    "name": "Kunai",
+    "description": "Equipamento: Kunai"
+  },
+  {
+    "_id": "e50",
+    "name": "Rasengan",
+    "description": "Equipamento: Rasengan"
+  },
+  {
+    "_id": "e51",
+    "name": "Sharingan",
+    "description": "Equipamento: Sharingan"
+  },
+  {
+    "_id": "e52",
+    "name": "Straw Hat",
+    "description": "Equipamento: Straw Hat"
+  },
+  {
+    "_id": "e53",
+    "name": "Devil Fruit Powers",
+    "description": "Equipamento: Devil Fruit Powers"
+  },
+  {
+    "_id": "e54",
+    "name": "Energon Sword",
+    "description": "Equipamento: Energon Sword"
+  },
+  {
+    "_id": "e55",
+    "name": "Fusion Cannon",
+    "description": "Equipamento: Fusion Cannon"
+  },
+  {
+    "_id": "e56",
+    "name": "Evil Plans",
+    "description": "Equipamento: Evil Plans"
+  },
+  {
+    "_id": "e57",
+    "name": "Portal Gun",
+    "description": "Equipamento: Portal Gun"
+  },
+  {
+    "_id": "e58",
+    "name": "Sarcasm",
+    "description": "Equipamento: Sarcasm"
+  },
+  {
+    "_id": "e59",
+    "name": "Nervousness",
+    "description": "Equipamento: Nervousness"
+  },
+  {
+    "_id": "e60",
+    "name": "Grandpa",
+    "description": "Equipamento: Grandpa"
+  },
+  {
+    "_id": "e61",
+    "name": "Telekinesis",
+    "description": "Equipamento: Telekinesis"
+  },
+  {
+    "_id": "e62",
+    "name": "Eggos",
+    "description": "Equipamento: Eggos"
+  },
+  {
+    "_id": "e63",
+    "name": "Donuts",
+    "description": "Equipamento: Donuts"
+  },
+  {
+    "_id": "e64",
+    "name": "Beer",
+    "description": "Equipamento: Beer"
+  },
+  {
+    "_id": "e65",
+    "name": "Spider Powers",
+    "description": "Equipamento: Spider Powers"
+  },
+  {
+    "_id": "e66",
+    "name": "Hoodie",
+    "description": "Equipamento: Hoodie"
+  },
+  {
+    "_id": "e67",
+    "name": "Pikachu",
+    "description": "Equipamento: Pikachu"
+  },
+  {
+    "_id": "e68",
+    "name": "Pokeballs",
+    "description": "Equipamento: Pokeballs"
+  },
+  {
+    "_id": "e69",
+    "name": "Thunderbolt",
+    "description": "Equipamento: Thunderbolt"
+  },
+  {
+    "_id": "e70",
+    "name": "Buster Sword",
+    "description": "Equipamento: Buster Sword"
+  },
+  {
+    "_id": "e71",
+    "name": "Masamune Sword",
+    "description": "Equipamento: Masamune Sword"
+  },
+  {
+    "_id": "e72",
+    "name": "One Wing",
+    "description": "Equipamento: One Wing"
+  },
+  {
+    "_id": "e73",
+    "name": "Glider",
+    "description": "Equipamento: Glider"
+  },
+  {
+    "_id": "e74",
+    "name": "Waterbending",
+    "description": "Equipamento: Waterbending"
+  },
+  {
+    "_id": "e75",
+    "name": "Boomerang",
+    "description": "Equipamento: Boomerang"
+  },
+  {
+    "_id": "e76",
+    "name": "Vibranium Suit",
+    "description": "Equipamento: Vibranium Suit"
+  },
+  {
+    "_id": "e77",
+    "name": "Claws",
+    "description": "Equipamento: Claws"
+  },
+  {
+    "_id": "e78",
+    "name": "Lasso Of Truth",
+    "description": "Equipamento: Lasso Of Truth"
+  },
+  {
+    "_id": "e79",
+    "name": "Speedforce",
+    "description": "Equipamento: Speedforce"
+  },
+  {
+    "_id": "e80",
+    "name": "Swamp",
+    "description": "Equipamento: Swamp"
+  },
+  {
+    "_id": "e81",
+    "name": "Onions",
+    "description": "Equipamento: Onions"
+  },
+  {
+    "_id": "e82",
+    "name": "Humor",
+    "description": "Equipamento: Humor"
+  },
+  {
+    "_id": "e83",
+    "name": "Kung Fu",
+    "description": "Equipamento: Kung Fu"
+  },
+  {
+    "_id": "e84",
+    "name": "Code Vision",
+    "description": "Equipamento: Code Vision"
+  },
+  {
+    "_id": "e85",
+    "name": "Guns",
+    "description": "Equipamento: Guns"
+  },
+  {
+    "_id": "e86",
+    "name": "Martial Arts",
+    "description": "Equipamento: Martial Arts"
+  },
+  {
+    "_id": "e87",
+    "name": "Virus Powers",
+    "description": "Equipamento: Virus Powers"
+  },
+  {
+    "_id": "e88",
+    "name": "Intelligence",
+    "description": "Equipamento: Intelligence"
+  },
+  {
+    "_id": "e89",
+    "name": "One Ring",
+    "description": "Equipamento: One Ring"
+  },
+  {
+    "_id": "e90",
+    "name": "Darkness",
+    "description": "Equipamento: Darkness"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "u1",
+    "name": "Marvel",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u2",
+    "name": "Star Wars",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u3",
+    "name": "Wizarding World",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u4",
+    "name": "Halo",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u5",
+    "name": "Middle-Earth",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u6",
+    "name": "DC Comics",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u7",
+    "name": "Tomb Raider",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u8",
+    "name": "The Witcher",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u9",
+    "name": "Dragon Ball",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u10",
+    "name": "The Legend of Zelda",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u11",
+    "name": "God of War",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u12",
+    "name": "Nintendo",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u13",
+    "name": "Sega",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u14",
+    "name": "Naruto",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u15",
+    "name": "One Piece",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u16",
+    "name": "Transformers",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u17",
+    "name": "Rick and Morty",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u18",
+    "name": "Stranger Things",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u19",
+    "name": "The Simpsons",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u20",
+    "name": "Pokemon",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u21",
+    "name": "Final Fantasy",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u22",
+    "name": "Avatar: The Last Airbender",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u23",
+    "name": "DreamWorks",
+    "type": "mixed",
+    "origin": "unknown"
+  },
+  {
+    "_id": "u24",
+    "name": "The Matrix",
+    "type": "mixed",
+    "origin": "unknown"
+  }
+]
